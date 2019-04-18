@@ -27,6 +27,11 @@ a {
     padding: 30px;
 
 }
+.p:hover{
+    font-size: 30px;
+    transition: 2s;
+    
+}
 
 footer {
     word-spacing: 5px;
